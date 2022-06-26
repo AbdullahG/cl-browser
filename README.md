@@ -1,2 +1,2 @@
 # cl-browser
-Browser works on CL and supports HTML
+Web browser works on CL and supports HTML

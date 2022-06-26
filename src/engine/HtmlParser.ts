@@ -33,7 +33,7 @@ function parseHtmlResource(resource: string): Node {
             }
         }
     }
-    printDOM(node as ElementNode);
+    // printDOM(node as ElementNode);
     return node;
 }
 
