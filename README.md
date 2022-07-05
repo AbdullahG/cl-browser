@@ -1,5 +1,5 @@
-# cl-browser
-[W.I.P] Web browser works on CL and supports HTML
+# cl-browser [W.I.P]
+Web browser works on CL and supports HTML
 
 This is a hobby project. I am implementing a browser to understand how html and css rendering works.
 I've created a list of tasks to follow
